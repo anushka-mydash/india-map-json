@@ -1,1 +1,1 @@
-# india-map-json
+# map-json
